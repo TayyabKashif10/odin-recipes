@@ -1,0 +1,12 @@
+.icon
+{
+    width: 100px;
+    height: 100px;
+    vertical-align: middle;
+}
+
+.icon-text
+{
+    display: inline;
+    padding-inline-start: 20px;
+}
